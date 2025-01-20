@@ -3,7 +3,7 @@
 💻 Sou um dev que amo linux, programação e projetos open-source. Gosto de trabalhar em projetos que facilitam a vida de desenvolvedores, empresas e contribuir para eles.
 
 ### 🚀 Sobre Mim
-- 🎓 Tenho 22 anos e sempre estou estudando as principais linguagens de programação.
+- 🎓 Sou do Brasil e sempre estou estudando as principais linguagens de programação.
 - 🛠️ Experiência com Python, JavaScript, PHP, e uma preferência maior pelo Linux.
 - 🌐 [Portfólio](https://root-portfolio.netlify.app/) com meus projetos mais recentes.
 
